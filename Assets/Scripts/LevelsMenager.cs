@@ -18,11 +18,11 @@ public class LevelsMenager : MonoBehaviour
 
     public void GoToLevel1()
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene(2);
     }
 
     public void GoToLevel2()
     {
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(3);
     }
 }
